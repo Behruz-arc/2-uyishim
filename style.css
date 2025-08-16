@@ -1,0 +1,32 @@
+.box1 {
+background-color: darkgreen;
+}
+.box2 {
+    background-color: brown;
+    width: 636px;
+    height: 80px;
+    margin: 0% auto;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+.box3 {
+    width: 1000px;
+    height: 638px;
+    border-top: 193px;
+    border-left: 220px;
+    border: 10px solid red;
+    background-color: black;
+    margin: 0% auto;
+    padding: 40px;
+    box-sizing: border-box;
+}
+.box4 {
+    width: 896px;
+    height: 259px;
+    background-color: aquamarine;
+    margin: 0% auto;     
+    margin-bottom: 40px; 
+    font-size: 35px; 
+}
+
